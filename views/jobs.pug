@@ -1,0 +1,38 @@
+extends layout
+
+block content
+    h1 Find Jobs
+    form(method="POST", action="/jobs/search")
+        table(style='border: 2px solid black')
+            tr
+                td: h3 Where do you want to work
+                td: input(type="text", name="city" value=city)
+            tr
+                td: h3 What job title are you looking for?
+                td: input(type='text' name="category" value=category)
+            tr
+                td
+                td: input(type="submit"  value="Find Jobs")
+
+    h2= title
+    h3= 'Average potential Salary: ' + average
+    h3 Total Jobs Found: #{jobs.length}
+    h4= 'Maximum potential Salary: ' + max
+    h4= 'Minimum potential Salary: ' + min
+    table
+        thead
+            th  Company
+            th  Job Title
+            th  Category
+            th  City
+            th  Application Date
+            th  Salary
+
+            each job in jobs
+                tr
+                    td #{job.Company}
+                    td #{job.Title}
+                    td #{job.Category}
+                    td #{job.City}
+                    td #{job.AppDate}
+                    td #{job.Salary.formatMoney(0, "$ ")}

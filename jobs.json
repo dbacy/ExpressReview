@@ -1,0 +1,2846 @@
+[
+    {
+      "JobId": 0,
+      "Company": "Edge Tech Academy",
+      "Salary": 99999,
+      "AppDate": "11/15/2018",
+      "City": "Hurst",
+      "Title": "Senior Programmer",
+      "Category": "Programmer"
+    },
+    {
+      "JobId": 1,
+      "Company": "New York Life",
+      "Salary": 113703,
+      "AppDate": "10/9/2015",
+      "City": "Dallas",
+      "Title": "Head of Data Governance for Enterprise Data Management",
+      "Category": "Other"
+    },
+    {
+      "JobId": 2,
+      "Company": "Sabre",
+      "Salary": 117003,
+      "AppDate": "10/9/2015",
+      "City": "South Lake",
+      "Title": "Manager Software Development-00XY6.",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 3,
+      "Company": "Lanyon",
+      "Salary": 89092,
+      "AppDate": "10/10/2015",
+      "City": "Dallas",
+      "Title": "Director Software Development | (US-TX-Dallas)",
+      "Category": "Director"
+    },
+    {
+      "JobId": 4,
+      "Company": "PennyMac",
+      "Salary": 112459,
+      "AppDate": "10/10/2015",
+      "City": "Fort Worth",
+      "Title": "First Vice President Application Development",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 5,
+      "Company": "CoreLogic",
+      "Salary": 78370,
+      "AppDate": "10/10/2015",
+      "City": "WestLake",
+      "Title": "Dir Software Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 6,
+      "Company": "RealPage Inc.",
+      "Salary": 95763,
+      "AppDate": "10/12/2015",
+      "City": "",
+      "Title": "Vice President Information Systems",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 7,
+      "Company": "Omni Hotels",
+      "Salary": 71073,
+      "AppDate": "10/12/2015",
+      "City": "",
+      "Title": "ETL and Integration Developer",
+      "Category": "Developer"
+    },
+    {
+      "JobId": 8,
+      "Company": "Broadridge",
+      "Salary": 107410,
+      "AppDate": "10/13/2015",
+      "City": "",
+      "Title": "Director of Development- Streamweaver.",
+      "Category": "Director"
+    },
+    {
+      "JobId": 9,
+      "Company": "CyberCoders",
+      "Salary": 99286,
+      "AppDate": "10/13/2015",
+      "City": "Irving",
+      "Title": "VP of Software Engineering - .NET Management .NET Stack",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 10,
+      "Company": "Hilton",
+      "Salary": 84079,
+      "AppDate": "10/13/2015",
+      "City": "",
+      "Title": "Manager BI Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 11,
+      "Company": "Veritude",
+      "Salary": 100001,
+      "AppDate": "10/14/2015",
+      "City": "",
+      "Title": "Sr. Manager Software Engineering Development Management",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 12,
+      "Company": "Princeton Information",
+      "Salary": 101692,
+      "AppDate": "10/15/2015",
+      "City": "",
+      "Title": "Senior IT Program Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 13,
+      "Company": "Fidelity Investments",
+      "Salary": 79075,
+      "AppDate": "10/15/2015",
+      "City": "",
+      "Title": "Senior Manager Software Engineering Development Management – eServices Technical Leadership",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 14,
+      "Company": "Fidelity Investments",
+      "Salary": 87813,
+      "AppDate": "10/15/2015",
+      "City": "",
+      "Title": "Software Development Team Lead",
+      "Category": "Other"
+    },
+    {
+      "JobId": 15,
+      "Company": "Neiman Marcus",
+      "Salary": 105866,
+      "AppDate": "10/15/2015",
+      "City": "",
+      "Title": "IT Director Integration and Data Warehousing",
+      "Category": "Director"
+    },
+    {
+      "JobId": 16,
+      "Company": "Neiman Marcus",
+      "Salary": 81445,
+      "AppDate": "10/15/2015",
+      "City": "",
+      "Title": "IT Director Mobile (iOS) Application Development Point of Commerce and Payment Systems",
+      "Category": "Director"
+    },
+    {
+      "JobId": 17,
+      "Company": "Fiserv",
+      "Salary": 112783,
+      "AppDate": "10/15/2015",
+      "City": "",
+      "Title": "Software Development Team Lead",
+      "Category": "Other"
+    },
+    {
+      "JobId": 18,
+      "Company": "Watson Health",
+      "Salary": 95317,
+      "AppDate": "10/15/2015",
+      "City": "Irving",
+      "Title": "Manager Software Engineering Phytel",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 19,
+      "Company": "New York Life",
+      "Salary": 116629,
+      "AppDate": "10/16/2015",
+      "City": "Dallas",
+      "Title": "Head of Solutions Delivery & ASM (22127)",
+      "Category": "Other"
+    },
+    {
+      "JobId": 20,
+      "Company": "RBA",
+      "Salary": 110948,
+      "AppDate": "10/16/2015",
+      "City": "",
+      "Title": "SSIS and / or BI",
+      "Category": "Other"
+    },
+    {
+      "JobId": 21,
+      "Company": "Oracle",
+      "Salary": 109343,
+      "AppDate": "10/19/2015",
+      "City": "",
+      "Title": "Software Development VP",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 22,
+      "Company": "MultiPlan",
+      "Salary": 107931,
+      "AppDate": "10/19/2015",
+      "City": "Irving",
+      "Title": "Director Applications Development (Healthcare Insurance)",
+      "Category": "Director"
+    },
+    {
+      "JobId": 23,
+      "Company": "VHA-UHC Alliance NewCo Inc.",
+      "Salary": 87955,
+      "AppDate": "10/19/2015",
+      "City": "",
+      "Title": "Director-Applications Delivery & Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 24,
+      "Company": "MedSynergies",
+      "Salary": 102207,
+      "AppDate": "10/19/2015",
+      "City": "",
+      "Title": "Director Application Support and Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 25,
+      "Company": "JP Morgan",
+      "Salary": 104440,
+      "AppDate": "10/19/2015",
+      "City": "",
+      "Title": "VP Application Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 26,
+      "Company": "HireFinders Inc.",
+      "Salary": 93508,
+      "AppDate": "10/19/2015",
+      "City": "",
+      "Title": "Director of Application Support (Information Technology)",
+      "Category": "Director"
+    },
+    {
+      "JobId": 27,
+      "Company": "Epsilon",
+      "Salary": 94427,
+      "AppDate": "10/19/2015",
+      "City": "",
+      "Title": "Director Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 28,
+      "Company": "Robert Half",
+      "Salary": 118422,
+      "AppDate": "10/20/2015",
+      "City": "",
+      "Title": "Director of Mobile Applications Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 29,
+      "Company": "TMX Finance",
+      "Salary": 102945,
+      "AppDate": "10/21/2015",
+      "City": "Dallas",
+      "Title": "Senior Director of Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 30,
+      "Company": "Wolters Kluwer",
+      "Salary": 86530,
+      "AppDate": "10/21/2015",
+      "City": "",
+      "Title": "Manager Software Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 31,
+      "Company": "Partnerships With Native Americans",
+      "Salary": 112481,
+      "AppDate": "10/21/2015",
+      "City": "",
+      "Title": "Information Technology Director",
+      "Category": "Director"
+    },
+    {
+      "JobId": 32,
+      "Company": "Tech Systems",
+      "Salary": 108029,
+      "AppDate": "10/21/2015",
+      "City": "",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 33,
+      "Company": "Veredus",
+      "Salary": 97333,
+      "AppDate": "10/21/2015",
+      "City": "",
+      "Title": "Manager Software Engineering",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 34,
+      "Company": "Prudent Technologies and Consulting",
+      "Salary": 71757,
+      "AppDate": "10/22/2015",
+      "City": "",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 35,
+      "Company": "Maxsys Solutions LLC",
+      "Salary": 80793,
+      "AppDate": "10/22/2015",
+      "City": "",
+      "Title": "Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 36,
+      "Company": "Amazon",
+      "Salary": 103567,
+      "AppDate": "10/22/2015",
+      "City": "Fort Worth",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 37,
+      "Company": "One Technologies",
+      "Salary": 96799,
+      "AppDate": "10/22/2015",
+      "City": "",
+      "Title": "Director of Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 38,
+      "Company": "Mortgage Servicing",
+      "Salary": 103352,
+      "AppDate": "10/23/2015",
+      "City": "Irving",
+      "Title": "Java Development Manager (Mortgage Servicing)",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 39,
+      "Company": "Timberhorn LLC",
+      "Salary": 70911,
+      "AppDate": "10/23/2015",
+      "City": "Plano",
+      "Title": "Senior Director of Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 40,
+      "Company": "Citi",
+      "Salary": 94137,
+      "AppDate": "10/23/2015",
+      "City": "",
+      "Title": "Apps Dev Sr. Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 41,
+      "Company": "Citi",
+      "Salary": 85287,
+      "AppDate": "10/23/2015",
+      "City": "Shanghai",
+      "Title": "Applications Development Technical Specialist - Development Team Leader (VP)",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 42,
+      "Company": "Citi",
+      "Salary": 119230,
+      "AppDate": "10/23/2015",
+      "City": "Pune",
+      "Title": "Vice President (Job Number: 15092396)",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 43,
+      "Company": "ATL",
+      "Salary": 90336,
+      "AppDate": "10/23/2015",
+      "City": "",
+      "Title": "Director of Engineering - Worldwide",
+      "Category": "Director"
+    },
+    {
+      "JobId": 44,
+      "Company": "CyberCoders",
+      "Salary": 86419,
+      "AppDate": "10/23/2015",
+      "City": "SLC",
+      "Title": "CTO - Well Funded Start Up",
+      "Category": "Other"
+    },
+    {
+      "JobId": 45,
+      "Company": "CyberCoders",
+      "Salary": 74227,
+      "AppDate": "10/23/2015",
+      "City": "Colleyvile",
+      "Title": "CTO - Chief Technology Officer",
+      "Category": "Other"
+    },
+    {
+      "JobId": 46,
+      "Company": "Insource Group",
+      "Salary": 119004,
+      "AppDate": "10/26/2015",
+      "City": "Irving",
+      "Title": "Integrations Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 47,
+      "Company": "Kforce",
+      "Salary": 91342,
+      "AppDate": "10/27/2015",
+      "City": "Dallas",
+      "Title": "Data Analyst II / SSIS and ETL Mapping",
+      "Category": "Other"
+    },
+    {
+      "JobId": 48,
+      "Company": "Alleare",
+      "Salary": 117177,
+      "AppDate": "10/27/2015",
+      "City": "Dallas",
+      "Title": "Digital Delivery & PMO Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 49,
+      "Company": "KForce",
+      "Salary": 106824,
+      "AppDate": "10/27/2015",
+      "City": "",
+      "Title": "Application Developer Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 50,
+      "Company": "Epsilon",
+      "Salary": 95423,
+      "AppDate": "10/27/2015",
+      "City": "",
+      "Title": "Director Database Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 51,
+      "Company": "Ziosk",
+      "Salary": 75681,
+      "AppDate": "10/28/2015",
+      "City": "Dallas",
+      "Title": "Director of Program Management",
+      "Category": "Director"
+    },
+    {
+      "JobId": 52,
+      "Company": "New York Life",
+      "Salary": 114752,
+      "AppDate": "10/28/2015",
+      "City": "Dallas",
+      "Title": "Head of IT PMO",
+      "Category": "Other"
+    },
+    {
+      "JobId": 53,
+      "Company": "onesource-virtual",
+      "Salary": 83726,
+      "AppDate": "10/28/2015",
+      "City": "",
+      "Title": "PMO Project Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 54,
+      "Company": "Red Flex",
+      "Salary": 112893,
+      "AppDate": "10/28/2015",
+      "City": "PHX",
+      "Title": "Director of Software Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 55,
+      "Company": "ISGN",
+      "Salary": 89860,
+      "AppDate": "10/29/2015",
+      "City": "",
+      "Title": "Director Servicing Product Technology",
+      "Category": "Director"
+    },
+    {
+      "JobId": 56,
+      "Company": "HCR Group",
+      "Salary": 85646,
+      "AppDate": "10/29/2015",
+      "City": "",
+      "Title": "Director of Application Support",
+      "Category": "Director"
+    },
+    {
+      "JobId": 57,
+      "Company": "Levi Ray & Shoup",
+      "Salary": 112840,
+      "AppDate": "10/30/2015",
+      "City": "Irving",
+      "Title": "Director of Mobile Application Development (IOS)",
+      "Category": "Director"
+    },
+    {
+      "JobId": 58,
+      "Company": "Michael's",
+      "Salary": 91041,
+      "AppDate": "11/3/2015",
+      "City": "",
+      "Title": "Manager Project Management Office",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 59,
+      "Company": "Compass Technology Group",
+      "Salary": 85109,
+      "AppDate": "11/3/2015",
+      "City": "",
+      "Title": "Software Product Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 60,
+      "Company": "Deloitt - Aviall",
+      "Salary": 91638,
+      "AppDate": "11/3/2015",
+      "City": "",
+      "Title": "IS Program Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 61,
+      "Company": "GM Financial",
+      "Salary": 104086,
+      "AppDate": "11/5/2015",
+      "City": "",
+      "Title": "Data Governance Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 62,
+      "Company": "Baylor Health Care System",
+      "Salary": 119614,
+      "AppDate": "11/5/2015",
+      "City": "",
+      "Title": "Manager INFORMATION SERVICES - ENTERPRISE INFORMATION DELIVERY",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 63,
+      "Company": "Capital One",
+      "Salary": 80199,
+      "AppDate": "11/6/2015",
+      "City": "Plano",
+      "Title": "Director Software Engineering .NET",
+      "Category": "Director"
+    },
+    {
+      "JobId": 64,
+      "Company": "Zales",
+      "Salary": 116329,
+      "AppDate": "11/6/2015",
+      "City": "Irving",
+      "Title": "Data/Applications",
+      "Category": "Other"
+    },
+    {
+      "JobId": 65,
+      "Company": "HotDocs",
+      "Salary": 89263,
+      "AppDate": "11/6/2015",
+      "City": "Lindon",
+      "Title": "CTO",
+      "Category": "Other"
+    },
+    {
+      "JobId": 66,
+      "Company": "MetaSource",
+      "Salary": 109843,
+      "AppDate": "11/6/2015",
+      "City": "Draper",
+      "Title": "Senior Director of Software Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 67,
+      "Company": "Trowbridge Professional Search",
+      "Salary": 77278,
+      "AppDate": "11/6/2015",
+      "City": "Addison",
+      "Title": "Vice President Information Technology",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 68,
+      "Company": "USAA",
+      "Salary": 95998,
+      "AppDate": "11/6/2015",
+      "City": "Austin",
+      "Title": "Director Information Governance",
+      "Category": "Director"
+    },
+    {
+      "JobId": 69,
+      "Company": "DealerTrak",
+      "Salary": 98429,
+      "AppDate": "11/9/2015",
+      "City": "Dallas",
+      "Title": "Manager Software Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 70,
+      "Company": "Robert Half",
+      "Salary": 119861,
+      "AppDate": "11/9/2015",
+      "City": "Irving",
+      "Title": "Manager of Mobile Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 71,
+      "Company": "Robert Half",
+      "Salary": 99716,
+      "AppDate": "11/9/2015",
+      "City": "",
+      "Title": "Director Mobile (iOS) Application Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 72,
+      "Company": "SMS Solutions",
+      "Salary": 104783,
+      "AppDate": "11/9/2015",
+      "City": "Carrollton",
+      "Title": "Director IT Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 73,
+      "Company": "New York Life",
+      "Salary": 108749,
+      "AppDate": "11/9/2015",
+      "City": "Dallas",
+      "Title": "PM - Relationship Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 74,
+      "Company": "MoneyGram",
+      "Salary": 106792,
+      "AppDate": "11/10/2015",
+      "City": "",
+      "Title": "Director IT Project Portfolio Planning",
+      "Category": "Director"
+    },
+    {
+      "JobId": 75,
+      "Company": "TMX Finance",
+      "Salary": 93375,
+      "AppDate": "11/10/2015",
+      "City": "Dallas",
+      "Title": "VP of IT Development - Online Lending",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 76,
+      "Company": "ZipRecruiters",
+      "Salary": 85204,
+      "AppDate": "11/11/2015",
+      "City": "",
+      "Title": "Senior Director of Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 77,
+      "Company": "Veritude",
+      "Salary": 80726,
+      "AppDate": "11/11/2015",
+      "City": "Westlake",
+      "Title": "Director Of Software Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 78,
+      "Company": "Medecision",
+      "Salary": 86348,
+      "AppDate": "11/11/2015",
+      "City": "",
+      "Title": "Director Data Management",
+      "Category": "Director"
+    },
+    {
+      "JobId": 79,
+      "Company": "Alliance Data",
+      "Salary": 73732,
+      "AppDate": "11/11/2015",
+      "City": "",
+      "Title": "VP Technical Project Management – International Loyalty",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 80,
+      "Company": "Sabre",
+      "Salary": 112500,
+      "AppDate": "11/11/2015",
+      "City": "South Lake",
+      "Title": "Director Software Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 81,
+      "Company": "Blackhawk Engagement Solutions",
+      "Salary": 82946,
+      "AppDate": "11/16/2015",
+      "City": "Addison",
+      "Title": "Director Software Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 82,
+      "Company": "Allegro",
+      "Salary": 105788,
+      "AppDate": "11/16/2015",
+      "City": "Dallas",
+      "Title": "Director Software Operations",
+      "Category": "Director"
+    },
+    {
+      "JobId": 83,
+      "Company": "VHA-UHC Alliance NewCo Inc",
+      "Salary": 71491,
+      "AppDate": "11/17/2015",
+      "City": "",
+      "Title": "Director Data Intake-New Initiatives",
+      "Category": "Director"
+    },
+    {
+      "JobId": 84,
+      "Company": "Thomson-Rueters",
+      "Salary": 96089,
+      "AppDate": "11/17/2015",
+      "City": "Carrollton",
+      "Title": "Director Development Manager - Fin Tech",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 85,
+      "Company": "Epsilon",
+      "Salary": 115593,
+      "AppDate": "11/18/2015",
+      "City": "",
+      "Title": "Director of Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 86,
+      "Company": "Dealertrack Technologies",
+      "Salary": 97998,
+      "AppDate": "11/18/2015",
+      "City": "",
+      "Title": "Manager Software Engineering",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 87,
+      "Company": "Softworld",
+      "Salary": 70423,
+      "AppDate": "11/20/2015",
+      "City": "",
+      "Title": "Information Technology Director",
+      "Category": "Director"
+    },
+    {
+      "JobId": 88,
+      "Company": "Fiserv",
+      "Salary": 84132,
+      "AppDate": "11/23/2015",
+      "City": "Dallas",
+      "Title": "Director Application Development Biller Solutions",
+      "Category": "Director"
+    },
+    {
+      "JobId": 89,
+      "Company": "CareerBuilder-Prestige Staffing",
+      "Salary": 87915,
+      "AppDate": "11/26/2015",
+      "City": "Dallas",
+      "Title": "VP of Engineering",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 90,
+      "Company": "Texas Healthcare Resources",
+      "Salary": 118252,
+      "AppDate": "11/26/2015",
+      "City": "Arlington",
+      "Title": "Project Director System Integration",
+      "Category": "Director"
+    },
+    {
+      "JobId": 91,
+      "Company": "TruHearing",
+      "Salary": 119296,
+      "AppDate": "11/30/2015",
+      "City": "West Jordan",
+      "Title": "Director of Software Product",
+      "Category": "Director"
+    },
+    {
+      "JobId": 92,
+      "Company": "Workbridge Associates",
+      "Salary": 70362,
+      "AppDate": "11/30/2015",
+      "City": "",
+      "Title": "C# Director of Software Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 93,
+      "Company": "Concentra",
+      "Salary": 112908,
+      "AppDate": "12/1/2015",
+      "City": "Addison",
+      "Title": "Business Intelligence Data Warehouse Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 94,
+      "Company": "Soutwest",
+      "Salary": 114359,
+      "AppDate": "12/1/2015",
+      "City": "Dallas",
+      "Title": "Sr Analyst",
+      "Category": "Other"
+    },
+    {
+      "JobId": 95,
+      "Company": "Toyota",
+      "Salary": 74329,
+      "AppDate": "12/1/2015",
+      "City": "Plano",
+      "Title": "National Manager (Director)",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 96,
+      "Company": "Highgate Hotels",
+      "Salary": 76219,
+      "AppDate": "12/1/2015",
+      "City": "Irving",
+      "Title": "Vice President IT Business Applications - (7171)",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 97,
+      "Company": "CBRE",
+      "Salary": 102618,
+      "AppDate": "12/1/2015",
+      "City": "Dallas",
+      "Title": "Director PMO-Project Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 98,
+      "Company": "TMX Finance",
+      "Salary": 83846,
+      "AppDate": "12/2/2015",
+      "City": "Carrollton",
+      "Title": "VP of Application Development",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 99,
+      "Company": "Domo",
+      "Salary": 115909,
+      "AppDate": "12/2/2015",
+      "City": "American Fork",
+      "Title": "Program Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 100,
+      "Company": "Huckabee and Associates",
+      "Salary": 93896,
+      "AppDate": "12/7/2015",
+      "City": "Fort Worth",
+      "Title": "Director of Information Services",
+      "Category": "Director"
+    },
+    {
+      "JobId": 101,
+      "Company": "Cinepolis USA",
+      "Salary": 85128,
+      "AppDate": "12/7/2015",
+      "City": "Dallas",
+      "Title": "Director OF IT",
+      "Category": "Director"
+    },
+    {
+      "JobId": 102,
+      "Company": "U of U Medical Group",
+      "Salary": 70195,
+      "AppDate": "12/7/2015",
+      "City": "SLC",
+      "Title": "Associate Director - IT",
+      "Category": "Director"
+    },
+    {
+      "JobId": 103,
+      "Company": "Alliance Data",
+      "Salary": 106594,
+      "AppDate": "12/7/2015",
+      "City": "Dallas",
+      "Title": "Senior Director of Database",
+      "Category": "Director"
+    },
+    {
+      "JobId": 104,
+      "Company": "Alliance Data",
+      "Salary": 94485,
+      "AppDate": "12/7/2015",
+      "City": "Dallas",
+      "Title": "Senior Manager of Technical Project Management",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 105,
+      "Company": "Elevate",
+      "Salary": 95190,
+      "AppDate": "12/7/2015",
+      "City": "",
+      "Title": "Program Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 106,
+      "Company": "Professional Recruiters",
+      "Salary": 91701,
+      "AppDate": "12/8/2015",
+      "City": "Sandy",
+      "Title": "Director of Software Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 107,
+      "Company": "Epsilon",
+      "Salary": 91215,
+      "AppDate": "12/8/2015",
+      "City": "Irving",
+      "Title": "SVP R&D",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 108,
+      "Company": "BYU-I",
+      "Salary": 93567,
+      "AppDate": "12/8/2015",
+      "City": "Rexburg",
+      "Title": "Adjunct Instructor - CIT 111: Introducton to Databases",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 109,
+      "Company": "BYU-I",
+      "Salary": 83992,
+      "AppDate": "12/8/2015",
+      "City": "Rexburg",
+      "Title": "Computer Science and Electrical Engineering Visiting Faculty",
+      "Category": "Other"
+    },
+    {
+      "JobId": 110,
+      "Company": "TCC",
+      "Salary": 94016,
+      "AppDate": "12/8/2015",
+      "City": "Fort Worth",
+      "Title": "Adjunct Instructor - Computer Science",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 111,
+      "Company": "TCC",
+      "Salary": 106615,
+      "AppDate": "12/8/2015",
+      "City": "Fort Worth",
+      "Title": "Adjunct Instructor - Math",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 112,
+      "Company": "BYU-I",
+      "Salary": 90791,
+      "AppDate": "12/8/2015",
+      "City": "Rexburg",
+      "Title": "Adjunct Faculty--CIT 381: Business Intel and Analytics",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 113,
+      "Company": "BYU-I",
+      "Salary": 80586,
+      "AppDate": "12/8/2015",
+      "City": "Rexburg",
+      "Title": "Adjunct Instructor - CIT 160: Introduction to Programming",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 114,
+      "Company": "Kforce",
+      "Salary": 115999,
+      "AppDate": "12/10/2015",
+      "City": "",
+      "Title": "Director of Software Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 115,
+      "Company": "Z-Tech Solutions",
+      "Salary": 74762,
+      "AppDate": "12/11/2015",
+      "City": "Arlington",
+      "Title": "Software Portfolio Director",
+      "Category": "Director"
+    },
+    {
+      "JobId": 116,
+      "Company": "Mouser",
+      "Salary": 85155,
+      "AppDate": "12/14/2015",
+      "City": "Mansfield",
+      "Title": "Director Special Projects (IT)",
+      "Category": "Director"
+    },
+    {
+      "JobId": 117,
+      "Company": "Venture Solutions Inc.",
+      "Salary": 114827,
+      "AppDate": "12/14/2015",
+      "City": "Fort Worth",
+      "Title": "Sr. Director of Technology and Client Services",
+      "Category": "Director"
+    },
+    {
+      "JobId": 118,
+      "Company": "Digital Intelligence Systems LLC",
+      "Salary": 101204,
+      "AppDate": "12/16/2015",
+      "City": "Dallas",
+      "Title": "Director of Data Management",
+      "Category": "Director"
+    },
+    {
+      "JobId": 119,
+      "Company": "Demandware",
+      "Salary": 114583,
+      "AppDate": "12/16/2015",
+      "City": "SLC",
+      "Title": "Director of Software Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 120,
+      "Company": "Extreme Technologies Inc",
+      "Salary": 113799,
+      "AppDate": "12/16/2015",
+      "City": "Dallas",
+      "Title": "Director IT PMO",
+      "Category": "Director"
+    },
+    {
+      "JobId": 121,
+      "Company": "Thinkfind Corporation",
+      "Salary": 95179,
+      "AppDate": "12/17/2015",
+      "City": "Richardson",
+      "Title": "Director Software Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 122,
+      "Company": "Think! Finance",
+      "Salary": 110687,
+      "AppDate": "12/17/2015",
+      "City": "Fort Worth",
+      "Title": "Manager UI Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 123,
+      "Company": "Progexion",
+      "Salary": 114361,
+      "AppDate": "12/21/2015",
+      "City": "",
+      "Title": "Director Software Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 124,
+      "Company": "Robert Half",
+      "Salary": 79746,
+      "AppDate": "12/21/2015",
+      "City": "",
+      "Title": "Director of Data Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 125,
+      "Company": "GTN Technical Staffing",
+      "Salary": 80813,
+      "AppDate": "12/21/2015",
+      "City": "Addison",
+      "Title": "Software Development Project Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 126,
+      "Company": "Targetbase",
+      "Salary": 83639,
+      "AppDate": "12/22/2015",
+      "City": "Irving",
+      "Title": "Director of Information Technology",
+      "Category": "Director"
+    },
+    {
+      "JobId": 127,
+      "Company": "Paladin",
+      "Salary": 98358,
+      "AppDate": "12/22/2015",
+      "City": "Dallas",
+      "Title": "Director Data Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 128,
+      "Company": "EPE Innovations LLC",
+      "Salary": 103816,
+      "AppDate": "12/22/2015",
+      "City": "Dallas",
+      "Title": "Director Data Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 129,
+      "Company": "ICS recruiter",
+      "Salary": 119264,
+      "AppDate": "12/31/2015",
+      "City": "Denver",
+      "Title": "Software Engineering Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 130,
+      "Company": "AlixPartners",
+      "Salary": 114718,
+      "AppDate": "1/1/2016",
+      "City": "Dallas",
+      "Title": "Information Management Services - Vice President",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 131,
+      "Company": "Avenue5",
+      "Salary": 108233,
+      "AppDate": "1/1/2016",
+      "City": "Dallas",
+      "Title": "Vice President Business Intelligence",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 132,
+      "Company": "projekt202",
+      "Salary": 84081,
+      "AppDate": "1/5/2016",
+      "City": "Dallas",
+      "Title": "Director of Technology",
+      "Category": "Director"
+    },
+    {
+      "JobId": 133,
+      "Company": "CyberCoders",
+      "Salary": 71206,
+      "AppDate": "1/5/2016",
+      "City": "Fort Worth",
+      "Title": "Manager of UI Software Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 134,
+      "Company": "Odesus",
+      "Salary": 116880,
+      "AppDate": "1/5/2016",
+      "City": "Dallas",
+      "Title": "Director - PMO",
+      "Category": "Director"
+    },
+    {
+      "JobId": 135,
+      "Company": "EPE Innovations LLC",
+      "Salary": 75049,
+      "AppDate": "1/5/2016",
+      "City": "Dallas",
+      "Title": "Data Management Director",
+      "Category": "Director"
+    },
+    {
+      "JobId": 136,
+      "Company": "United States Bowling Congress",
+      "Salary": 101642,
+      "AppDate": "1/6/2016",
+      "City": "Arlington",
+      "Title": "Director of Software Architecture",
+      "Category": "Director"
+    },
+    {
+      "JobId": 137,
+      "Company": "RealPage Inc.",
+      "Salary": 74278,
+      "AppDate": "1/6/2016",
+      "City": "Carrollton",
+      "Title": "Vice President – Information Systems",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 138,
+      "Company": "Omni Hotels",
+      "Salary": 76473,
+      "AppDate": "1/6/2016",
+      "City": "Dallas",
+      "Title": "Vice President of Information Technology",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 139,
+      "Company": "Company Confidential",
+      "Salary": 113913,
+      "AppDate": "1/6/2016",
+      "City": "",
+      "Title": "Vice President of Information Technology",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 140,
+      "Company": "XO Communications",
+      "Salary": 98087,
+      "AppDate": "1/6/2016",
+      "City": "Dallas",
+      "Title": "Vice President of Software Development",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 141,
+      "Company": "Z-Tech Solutions",
+      "Salary": 106811,
+      "AppDate": "1/6/2016",
+      "City": "Arlington",
+      "Title": "Director of Software Product Management - Dental / Healthcare",
+      "Category": "Director"
+    },
+    {
+      "JobId": 142,
+      "Company": "Oracle",
+      "Salary": 87684,
+      "AppDate": "1/7/2016",
+      "City": "Bedford",
+      "Title": "Software Development Snr Director-15001CW2",
+      "Category": "Director"
+    },
+    {
+      "JobId": 143,
+      "Company": "PMAM Corporation",
+      "Salary": 102336,
+      "AppDate": "1/8/2016",
+      "City": "Dallas",
+      "Title": "IT Project Manager / IT Director",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 144,
+      "Company": "Panther IT",
+      "Salary": 83507,
+      "AppDate": "1/12/2016",
+      "City": "Fort Worth",
+      "Title": "Development Project Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 145,
+      "Company": "Maxsys Solutions LLC",
+      "Salary": 113068,
+      "AppDate": "1/12/2016",
+      "City": "Irving",
+      "Title": "SQL/SSIS Developer",
+      "Category": "Developer"
+    },
+    {
+      "JobId": 146,
+      "Company": "ECi Software Solutions",
+      "Salary": 114271,
+      "AppDate": "1/12/2016",
+      "City": "Fort Worth",
+      "Title": "Director Of Software Support",
+      "Category": "Director"
+    },
+    {
+      "JobId": 147,
+      "Company": "ECi Software Solutions",
+      "Salary": 86204,
+      "AppDate": "1/12/2016",
+      "City": "Provo",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 148,
+      "Company": "APN Software Services Inc",
+      "Salary": 81698,
+      "AppDate": "1/12/2016",
+      "City": "Fort Worth",
+      "Title": "Software Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 149,
+      "Company": "Caliber Homes",
+      "Salary": 76693,
+      "AppDate": "1/12/2016",
+      "City": "Fort Worth",
+      "Title": "Application Developer Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 150,
+      "Company": "FTI Medical Solutions",
+      "Salary": 100123,
+      "AppDate": "1/12/2016",
+      "City": "Dallas",
+      "Title": "Director of Software Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 151,
+      "Company": "McKesson",
+      "Salary": 106587,
+      "AppDate": "1/12/2016",
+      "City": "Dallas",
+      "Title": "Director Operations Project Management Office (PMO)",
+      "Category": "Director"
+    },
+    {
+      "JobId": 152,
+      "Company": "BNSF",
+      "Salary": 98674,
+      "AppDate": "1/12/2016",
+      "City": "Fort Worth",
+      "Title": "Manager of Technology Services",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 153,
+      "Company": "Thomson-Rueters",
+      "Salary": 108223,
+      "AppDate": "1/12/2016",
+      "City": "Carrollton",
+      "Title": "Director Development (Job Number: JREQ055651)",
+      "Category": "Director"
+    },
+    {
+      "JobId": 154,
+      "Company": "Allied Electronics",
+      "Salary": 108553,
+      "AppDate": "1/13/2016",
+      "City": "Fort Worth",
+      "Title": "Director of Web Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 155,
+      "Company": "American Airlines",
+      "Salary": 101585,
+      "AppDate": "1/13/2016",
+      "City": "Fort Worth",
+      "Title": "Director IT",
+      "Category": "Director"
+    },
+    {
+      "JobId": 156,
+      "Company": "Recovco Mortgage Management LLC",
+      "Salary": 114902,
+      "AppDate": "1/13/2016",
+      "City": "Irving",
+      "Title": "Chief Technology Officer",
+      "Category": "Other"
+    },
+    {
+      "JobId": 157,
+      "Company": "CareerBuilder",
+      "Salary": 96262,
+      "AppDate": "1/13/2016",
+      "City": "Dallas",
+      "Title": "Director of I.T.",
+      "Category": "Director"
+    },
+    {
+      "JobId": 158,
+      "Company": "Insight Global",
+      "Salary": 106662,
+      "AppDate": "1/13/2016",
+      "City": "Irving",
+      "Title": "Director Enterprise Application Services",
+      "Category": "Director"
+    },
+    {
+      "JobId": 159,
+      "Company": "Trinity Industries Inc.",
+      "Salary": 102080,
+      "AppDate": "1/13/2016",
+      "City": "Dallas",
+      "Title": "Director Applications Operations(2418)",
+      "Category": "Director"
+    },
+    {
+      "JobId": 160,
+      "Company": "One Technologies",
+      "Salary": 76940,
+      "AppDate": "1/18/2016",
+      "City": "Dallas",
+      "Title": "Manager Software Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 161,
+      "Company": "Dex Media",
+      "Salary": 71569,
+      "AppDate": "1/18/2016",
+      "City": "Fort Worth",
+      "Title": "Application Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 162,
+      "Company": "Wolters Kluwer",
+      "Salary": 99112,
+      "AppDate": "1/18/2016",
+      "City": "Irving",
+      "Title": "Manager Software Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 163,
+      "Company": "Austin Ribbon & Computer - RPS",
+      "Salary": 81415,
+      "AppDate": "1/18/2016",
+      "City": "Dallas",
+      "Title": "Applications Support & Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 164,
+      "Company": "Atavas",
+      "Salary": 112726,
+      "AppDate": "1/18/2016",
+      "City": "Dallas",
+      "Title": "Manager‚ Application Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 165,
+      "Company": "Zigatta",
+      "Salary": 111507,
+      "AppDate": "1/18/2016",
+      "City": "Dallas",
+      "Title": "Senior Application Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 166,
+      "Company": "Transplace",
+      "Salary": 98657,
+      "AppDate": "1/18/2016",
+      "City": "Frisco",
+      "Title": "Vice President Application Development",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 167,
+      "Company": "Triumph Aerostructures",
+      "Salary": 92950,
+      "AppDate": "1/22/2016",
+      "City": "Arlington",
+      "Title": "SQL Server Database Developer",
+      "Category": "Developer"
+    },
+    {
+      "JobId": 168,
+      "Company": "Hire Talent",
+      "Salary": 76112,
+      "AppDate": "1/22/2016",
+      "City": "Irving",
+      "Title": "SQL Developer Analyst",
+      "Category": "Developer"
+    },
+    {
+      "JobId": 169,
+      "Company": "Insource Group",
+      "Salary": 87639,
+      "AppDate": "1/22/2016",
+      "City": "Fort Worth",
+      "Title": "Business Intelligence Analyst/Developer",
+      "Category": "Developer"
+    },
+    {
+      "JobId": 170,
+      "Company": "Nigel Frank International",
+      "Salary": 109126,
+      "AppDate": "1/22/2016",
+      "City": "Fort Worth",
+      "Title": "SSRS/SSIS Developer-BI Developer",
+      "Category": "Developer"
+    },
+    {
+      "JobId": 171,
+      "Company": "Gallop Solutions",
+      "Salary": 95832,
+      "AppDate": "1/22/2016",
+      "City": "Fort Worth",
+      "Title": "Sr. BI Developer",
+      "Category": "Developer"
+    },
+    {
+      "JobId": 172,
+      "Company": "Cottonwood Financial",
+      "Salary": 110011,
+      "AppDate": "1/25/2016",
+      "City": "Irving",
+      "Title": "BUSINESS INTELLIGENCE MANAGER",
+      "Category": "Other"
+    },
+    {
+      "JobId": 173,
+      "Company": "Optimal Blue",
+      "Salary": 93564,
+      "AppDate": "1/26/2016",
+      "City": "Plano",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 174,
+      "Company": "Expedia",
+      "Salary": 104515,
+      "AppDate": "1/26/2016",
+      "City": "Dallas",
+      "Title": "Sr. Manager Production & Websites",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 175,
+      "Company": "OpenTV-Nagra",
+      "Salary": 85632,
+      "AppDate": "1/26/2016",
+      "City": "Addison",
+      "Title": "Manager - Software Development (Java)",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 176,
+      "Company": "Santander",
+      "Salary": 73347,
+      "AppDate": "1/28/2016",
+      "City": "Dallas",
+      "Title": "Sr. Vice-President Enterprise Technology-6659-702",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 177,
+      "Company": "Santander",
+      "Salary": 95567,
+      "AppDate": "1/28/2016",
+      "City": "Dallas",
+      "Title": "Vice-President Business Intelligence and Analytics (6436-702)",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 178,
+      "Company": "Alliance Data",
+      "Salary": 87370,
+      "AppDate": "1/28/2016",
+      "City": "Irving",
+      "Title": "VP Technology Delivery (Job Number: 0072865)",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 179,
+      "Company": "DentalOne Partners",
+      "Salary": 112942,
+      "AppDate": "1/28/2016",
+      "City": "Dallas",
+      "Title": "Director IT Business Intelligence",
+      "Category": "Director"
+    },
+    {
+      "JobId": 180,
+      "Company": "Depository Trust & Clearing Corporation",
+      "Salary": 115226,
+      "AppDate": "1/28/2016",
+      "City": "Dallas",
+      "Title": "Director Business Intelligence",
+      "Category": "Director"
+    },
+    {
+      "JobId": 181,
+      "Company": "Avenues International Inc.",
+      "Salary": 72140,
+      "AppDate": "2/1/2016",
+      "City": "Dallas",
+      "Title": "BI/Population Health Director for Epic Data Warehouse",
+      "Category": "Director"
+    },
+    {
+      "JobId": 182,
+      "Company": "Ferris & Associates",
+      "Salary": 78200,
+      "AppDate": "2/1/2016",
+      "City": "Dallas",
+      "Title": "Vice President Mobile Solutions",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 183,
+      "Company": "Distribion",
+      "Salary": 104730,
+      "AppDate": "2/2/2016",
+      "City": "Dallas",
+      "Title": "Director of Software Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 184,
+      "Company": "Watson Health- Phytel",
+      "Salary": 90303,
+      "AppDate": "2/2/2016",
+      "City": "Irving",
+      "Title": "Business Intelligence Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 185,
+      "Company": "Balfour",
+      "Salary": 97191,
+      "AppDate": "2/2/2016",
+      "City": "Dallas",
+      "Title": "Software Development Manager / Software Project Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 186,
+      "Company": "Zigatta",
+      "Salary": 110191,
+      "AppDate": "2/2/2016",
+      "City": "Dallas",
+      "Title": "Business Intelligence Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 187,
+      "Company": "Novartis",
+      "Salary": 76545,
+      "AppDate": "2/2/2016",
+      "City": "Dallas",
+      "Title": "Application Manager - R&D Document Management",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 188,
+      "Company": "SouthWest Airlines",
+      "Salary": 78215,
+      "AppDate": "2/2/2016",
+      "City": "Dallas",
+      "Title": "Senior Manager - Tech Ops Planning",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 189,
+      "Company": "Michael's",
+      "Salary": 91282,
+      "AppDate": "2/4/2016",
+      "City": "Dallas",
+      "Title": "Manager of IT Applications - CRM & Marketing",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 190,
+      "Company": "Rushmore Loans",
+      "Salary": 94530,
+      "AppDate": "2/5/2016",
+      "City": "Farmers Branch",
+      "Title": "Director of Technology",
+      "Category": "Director"
+    },
+    {
+      "JobId": 191,
+      "Company": "Compass Technology Group",
+      "Salary": 88566,
+      "AppDate": "2/5/2016",
+      "City": "Dallas",
+      "Title": "Manager of Software Product Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 192,
+      "Company": "Lanvera",
+      "Salary": 73884,
+      "AppDate": "2/5/2016",
+      "City": "Coppell",
+      "Title": "Software Product Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 193,
+      "Company": "ESI Healthcare Business Solutions",
+      "Salary": 84727,
+      "AppDate": "2/5/2016",
+      "City": "Dallas",
+      "Title": "Director .NET Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 194,
+      "Company": "United Systems Technology Inc",
+      "Salary": 92503,
+      "AppDate": "2/5/2016",
+      "City": "Carrollton",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 195,
+      "Company": "Insource Group",
+      "Salary": 80451,
+      "AppDate": "2/5/2016",
+      "City": "Dallas",
+      "Title": "Data Governance Lead",
+      "Category": "Other"
+    },
+    {
+      "JobId": 196,
+      "Company": "Paladin",
+      "Salary": 70119,
+      "AppDate": "2/8/2016",
+      "City": "Dallas",
+      "Title": "Manager Data Management",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 197,
+      "Company": "ConsultNet",
+      "Salary": 84658,
+      "AppDate": "2/9/2016",
+      "City": "Farmington",
+      "Title": "Executive Director of Technology",
+      "Category": "Director"
+    },
+    {
+      "JobId": 198,
+      "Company": "MDI Group",
+      "Salary": 98238,
+      "AppDate": "2/10/2016",
+      "City": "Dallas",
+      "Title": "Manager Application Support",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 199,
+      "Company": "Prestige Staffing",
+      "Salary": 93086,
+      "AppDate": "2/10/2016",
+      "City": "Dallas",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 200,
+      "Company": "CSC",
+      "Salary": 117310,
+      "AppDate": "2/10/2016",
+      "City": "Irving",
+      "Title": "Manager: Application Delivery",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 201,
+      "Company": "CSC",
+      "Salary": 71324,
+      "AppDate": "2/10/2016",
+      "City": "Irving",
+      "Title": "CSC Executive Leadership Opportunities in the US",
+      "Category": "Other"
+    },
+    {
+      "JobId": 202,
+      "Company": "Yes Recruiters",
+      "Salary": 70825,
+      "AppDate": "2/10/2016",
+      "City": "Dallas",
+      "Title": "Software Development / Project Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 203,
+      "Company": "Allegro",
+      "Salary": 88209,
+      "AppDate": "2/10/2016",
+      "City": "Jakarta",
+      "Title": "Director Product Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 204,
+      "Company": "Sabre",
+      "Salary": 89623,
+      "AppDate": "2/11/2016",
+      "City": "South Lake",
+      "Title": "Senior Director Software Development Tools & Automation",
+      "Category": "Director"
+    },
+    {
+      "JobId": 205,
+      "Company": "Sabre",
+      "Salary": 109725,
+      "AppDate": "2/11/2016",
+      "City": "South Lake",
+      "Title": "Principal IT Project Management",
+      "Category": "Other"
+    },
+    {
+      "JobId": 206,
+      "Company": "Ryan",
+      "Salary": 114894,
+      "AppDate": "2/11/2016",
+      "City": "Dallas",
+      "Title": "Vice President IT Applications",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 207,
+      "Company": "Ryan",
+      "Salary": 119058,
+      "AppDate": "2/11/2016",
+      "City": "London",
+      "Title": "Manager Data Acquisition Data Extraction",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 208,
+      "Company": "Z-Tech Solutions",
+      "Salary": 116059,
+      "AppDate": "2/12/2016",
+      "City": "Fort Worth",
+      "Title": "Director of IT - Business Services",
+      "Category": "Director"
+    },
+    {
+      "JobId": 209,
+      "Company": "CBRE",
+      "Salary": 95741,
+      "AppDate": "2/12/2016",
+      "City": "Dallas",
+      "Title": "Director - Enterprise Data & Architecture",
+      "Category": "Director"
+    },
+    {
+      "JobId": 210,
+      "Company": "KP Recruiting Group",
+      "Salary": 90847,
+      "AppDate": "2/12/2016",
+      "City": "Dallas",
+      "Title": "Software Development Manager / Software Project Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 211,
+      "Company": "Dealer.com",
+      "Salary": 80111,
+      "AppDate": "2/12/2016",
+      "City": "Dallas",
+      "Title": "Manager Software Engineering",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 212,
+      "Company": "Company Confidential",
+      "Salary": 71972,
+      "AppDate": "2/12/2016",
+      "City": "Dallas",
+      "Title": "Director - Global IT Enterprise Applications",
+      "Category": "Director"
+    },
+    {
+      "JobId": 213,
+      "Company": "Genesis10",
+      "Salary": 111748,
+      "AppDate": "2/16/2016",
+      "City": "Dallas",
+      "Title": "Program Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 214,
+      "Company": "Alliance Data",
+      "Salary": 117618,
+      "AppDate": "2/16/2016",
+      "City": "Irving",
+      "Title": "Director Tech Project Management",
+      "Category": "Director"
+    },
+    {
+      "JobId": 215,
+      "Company": "Ancestry",
+      "Salary": 72758,
+      "AppDate": "2/17/2016",
+      "City": "Provo",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 216,
+      "Company": "StorageCraft",
+      "Salary": 111971,
+      "AppDate": "2/17/2016",
+      "City": "Provo",
+      "Title": "Vice President of Engineering",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 217,
+      "Company": "UVU",
+      "Salary": 72708,
+      "AppDate": "2/17/2016",
+      "City": "Orem",
+      "Title": "Adjunct Instructor - Computer Science",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 218,
+      "Company": "UVU",
+      "Salary": 116853,
+      "AppDate": "2/17/2016",
+      "City": "Orem",
+      "Title": "Director - Portfolio and Project Management Office",
+      "Category": "Director"
+    },
+    {
+      "JobId": 219,
+      "Company": "HealthMine Inc.",
+      "Salary": 119832,
+      "AppDate": "2/17/2016",
+      "City": "Dallas",
+      "Title": "VP of Engineering",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 220,
+      "Company": "Lucernex",
+      "Salary": 114093,
+      "AppDate": "2/17/2016",
+      "City": "Plano",
+      "Title": "CTO and VP of Software Engineering",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 221,
+      "Company": "KP Recruiting Group",
+      "Salary": 82134,
+      "AppDate": "2/17/2016",
+      "City": "Dallas",
+      "Title": "Software Development Manager / Software Project Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 222,
+      "Company": "Kforce",
+      "Salary": 86374,
+      "AppDate": "2/17/2016",
+      "City": "Irving",
+      "Title": "Manager of IT Applications",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 223,
+      "Company": "Ventana Solutions",
+      "Salary": 89434,
+      "AppDate": "2/17/2016",
+      "City": "Irving",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 224,
+      "Company": "Biter & Associates LLC",
+      "Salary": 70308,
+      "AppDate": "2/17/2016",
+      "City": "Fort Worth",
+      "Title": "Vice President of Information Technology",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 225,
+      "Company": "Recovco Mortgage Management LLC",
+      "Salary": 112964,
+      "AppDate": "2/17/2016",
+      "City": "Irving",
+      "Title": "Chief Technology Officer",
+      "Category": "Other"
+    },
+    {
+      "JobId": 226,
+      "Company": "CareerBuilder",
+      "Salary": 112221,
+      "AppDate": "2/17/2016",
+      "City": "Dallas",
+      "Title": "Director of I.T.",
+      "Category": "Director"
+    },
+    {
+      "JobId": 227,
+      "Company": "Yasmesoft",
+      "Salary": 104111,
+      "AppDate": "2/17/2016",
+      "City": "Dallas",
+      "Title": "Software Development Manager / Software Project Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 228,
+      "Company": "Vizient",
+      "Salary": 70850,
+      "AppDate": "2/17/2016",
+      "City": "Dallas",
+      "Title": "Manager Application Delivery & Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 229,
+      "Company": "TCS",
+      "Salary": 99121,
+      "AppDate": "2/18/2016",
+      "City": "Dallas",
+      "Title": "Strategy Consultant – Mortgage and Housing Finance",
+      "Category": "Other"
+    },
+    {
+      "JobId": 230,
+      "Company": "AA",
+      "Salary": 114982,
+      "AppDate": "2/18/2016",
+      "City": "Fort Worth",
+      "Title": "Data Governance / data strategy SME",
+      "Category": "Other"
+    },
+    {
+      "JobId": 231,
+      "Company": "L-3 Communications",
+      "Salary": 105695,
+      "AppDate": "2/23/2016",
+      "City": "Arlington",
+      "Title": "Vice President of Engineering",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 232,
+      "Company": "CBTS",
+      "Salary": 79696,
+      "AppDate": "2/23/2016",
+      "City": "Las Colinas",
+      "Title": "Vice President of Information Technology",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 233,
+      "Company": "Progressive IT",
+      "Salary": 96737,
+      "AppDate": "2/25/2016",
+      "City": "The Colony",
+      "Title": "Director of IT and Software Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 234,
+      "Company": "CyberCoders",
+      "Salary": 109070,
+      "AppDate": "2/26/2016",
+      "City": "Orem",
+      "Title": "IT Director",
+      "Category": "Director"
+    },
+    {
+      "JobId": 235,
+      "Company": "Prince Perelson & Associates Llc | Draper UT",
+      "Salary": 92986,
+      "AppDate": "2/26/2016",
+      "City": "Draper",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 236,
+      "Company": "InnoCore Solutions Inc",
+      "Salary": 81861,
+      "AppDate": "2/26/2016",
+      "City": "Dallas",
+      "Title": "Data Governance Implementation Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 237,
+      "Company": "MatchPoint Consulting Group",
+      "Salary": 85393,
+      "AppDate": "2/26/2016",
+      "City": "Irving",
+      "Title": "Vice President - Enterprise Change Management",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 238,
+      "Company": "Selby Jennings",
+      "Salary": 87537,
+      "AppDate": "2/26/2016",
+      "City": "Dallas",
+      "Title": "SVP - Data Governance/Quality/Management",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 239,
+      "Company": "Ambit Energy",
+      "Salary": 110442,
+      "AppDate": "2/26/2016",
+      "City": "Dallas",
+      "Title": "Manager Project Management",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 240,
+      "Company": "Pursue IT Staffing",
+      "Salary": 95907,
+      "AppDate": "2/26/2016",
+      "City": "Addison",
+      "Title": "Director of Technology",
+      "Category": "Director"
+    },
+    {
+      "JobId": 241,
+      "Company": "TekSystems",
+      "Salary": 98495,
+      "AppDate": "3/1/2016",
+      "City": "Dallas",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 242,
+      "Company": "JP Morgan",
+      "Salary": 111675,
+      "AppDate": "3/7/2016",
+      "City": "Dallas",
+      "Title": "Applications Development Director - ED",
+      "Category": "Director"
+    },
+    {
+      "JobId": 243,
+      "Company": "Federal Reserve Bank",
+      "Salary": 85916,
+      "AppDate": "3/7/2016",
+      "City": "Dallas",
+      "Title": "Application Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 244,
+      "Company": "Jade Staffing",
+      "Salary": 72639,
+      "AppDate": "3/7/2016",
+      "City": "Irving",
+      "Title": "VP Information Technology",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 245,
+      "Company": "HALLMARK GLOBAL TECHNOLOGIES INC",
+      "Salary": 70864,
+      "AppDate": "3/7/2016",
+      "City": "Fort Worth",
+      "Title": "Application Project Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 246,
+      "Company": "TCS Data Consulting Services",
+      "Salary": 92818,
+      "AppDate": "3/9/2016",
+      "City": "Dallas",
+      "Title": "ETL/Data Analysts",
+      "Category": "Other"
+    },
+    {
+      "JobId": 247,
+      "Company": "Epsilon",
+      "Salary": 94068,
+      "AppDate": "3/22/2016",
+      "City": "Dallas",
+      "Title": "VP - Technology Delivery-0077310",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 248,
+      "Company": "Ministry Brands",
+      "Salary": 82168,
+      "AppDate": "3/23/2016",
+      "City": "Addison",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 249,
+      "Company": "Caliber Homes",
+      "Salary": 70499,
+      "AppDate": "3/23/2016",
+      "City": "Coppell",
+      "Title": "Originations Reporting & Analytics Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 250,
+      "Company": "Novartis",
+      "Salary": 90858,
+      "AppDate": "3/28/2016",
+      "City": "Fort Worth",
+      "Title": "Mobile Governance Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 251,
+      "Company": "Bottle Rocket",
+      "Salary": 117599,
+      "AppDate": "3/29/2016",
+      "City": "Dallas",
+      "Title": "Software Development Manager Mobile TV Anywhere Platform",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 252,
+      "Company": "NationStar Mortgage",
+      "Salary": 95680,
+      "AppDate": "3/29/2016",
+      "City": "Dallas",
+      "Title": "VP Data Integrity",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 253,
+      "Company": "NationStar Mortgage",
+      "Salary": 100820,
+      "AppDate": "3/29/2016",
+      "City": "Dallas",
+      "Title": "Sr. ETL Developer",
+      "Category": "Developer"
+    },
+    {
+      "JobId": 254,
+      "Company": "HighQuartile",
+      "Salary": 90402,
+      "AppDate": "3/29/2016",
+      "City": "Dallas",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 255,
+      "Company": "Omnitracs",
+      "Salary": 109373,
+      "AppDate": "3/29/2016",
+      "City": "Dallas",
+      "Title": "Vice President of Product Development - Mobile Applications",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 256,
+      "Company": "Goldman Sachs",
+      "Salary": 95221,
+      "AppDate": "3/29/2016",
+      "City": "Irving",
+      "Title": "Realty Management Division Residential Mortgage Asset Management Reporting & Data Analytics Vice President",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 257,
+      "Company": "Baylor Health Care System",
+      "Salary": 116069,
+      "AppDate": "3/29/2016",
+      "City": "Dallas",
+      "Title": "Sr Vice President - Build - Information Technology",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 258,
+      "Company": "HealthEquity",
+      "Salary": 97744,
+      "AppDate": "4/5/2016",
+      "City": "Draper",
+      "Title": "VP Software Development and Delivery",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 259,
+      "Company": "Lhoist",
+      "Salary": 76731,
+      "AppDate": "4/5/2016",
+      "City": "Fort Worth",
+      "Title": "IT Director",
+      "Category": "Director"
+    },
+    {
+      "JobId": 260,
+      "Company": "Technology Service Professionals",
+      "Salary": 114722,
+      "AppDate": "4/5/2016",
+      "City": "Dallas",
+      "Title": "Application Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 261,
+      "Company": "Flowserve",
+      "Salary": 85946,
+      "AppDate": "4/5/2016",
+      "City": "Irving",
+      "Title": "Director IT – Business Intelligence",
+      "Category": "Director"
+    },
+    {
+      "JobId": 262,
+      "Company": "ID Inc",
+      "Salary": 83006,
+      "AppDate": "4/5/2016",
+      "City": "Dallas",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 263,
+      "Company": "HumCap Inc",
+      "Salary": 109306,
+      "AppDate": "4/5/2016",
+      "City": "Las Colinas",
+      "Title": "Director Of Mobile Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 264,
+      "Company": "MCT",
+      "Salary": 99174,
+      "AppDate": "4/5/2016",
+      "City": "Fort Worth",
+      "Title": "New Horizons - Teaching - Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 265,
+      "Company": "Allied Electronics",
+      "Salary": 98825,
+      "AppDate": "4/5/2016",
+      "City": "Fort Worth",
+      "Title": "Director of Web Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 266,
+      "Company": "Data Masters",
+      "Salary": 107080,
+      "AppDate": "4/7/2016",
+      "City": "Fort Worth",
+      "Title": "Director of Software Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 267,
+      "Company": "Pailin Group Professional Search Consultants",
+      "Salary": 111021,
+      "AppDate": "4/7/2016",
+      "City": "Dallas",
+      "Title": "Director of Mobile Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 268,
+      "Company": "Plaza Medical Center of Fort Worth",
+      "Salary": 103391,
+      "AppDate": "4/7/2016",
+      "City": "Fort Worth",
+      "Title": "Director of Information Technology",
+      "Category": "Director"
+    },
+    {
+      "JobId": 269,
+      "Company": "Training Associates",
+      "Salary": 103009,
+      "AppDate": "4/7/2016",
+      "City": "Ohio",
+      "Title": "JPMC Boot Camp",
+      "Category": "Other"
+    },
+    {
+      "JobId": 270,
+      "Company": "Inmar",
+      "Salary": 98392,
+      "AppDate": "4/8/2016",
+      "City": "Fort Worth",
+      "Title": "Director Software Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 271,
+      "Company": "WGU",
+      "Salary": 96457,
+      "AppDate": "4/8/2016",
+      "City": "Online",
+      "Title": "Course Mentor IT Web Development - Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 272,
+      "Company": "WGU",
+      "Salary": 97946,
+      "AppDate": "4/8/2016",
+      "City": "Online",
+      "Title": "Course Mentor IT Object-oriented programming - Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 273,
+      "Company": "WGU",
+      "Salary": 73977,
+      "AppDate": "4/8/2016",
+      "City": "Online",
+      "Title": "Course Mentor IT Data Management and Data Analytics",
+      "Category": "Other"
+    },
+    {
+      "JobId": 274,
+      "Company": "Acrobat",
+      "Salary": 102157,
+      "AppDate": "4/12/2016",
+      "City": "Las Colinas",
+      "Title": "Director of Mobile Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 275,
+      "Company": "Caliber Homes",
+      "Salary": 92466,
+      "AppDate": "4/5/2016",
+      "City": "Irving",
+      "Title": "VP of Business Intelligence",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 276,
+      "Company": "Dickies",
+      "Salary": 88764,
+      "AppDate": "4/14/2016",
+      "City": "Fort Worth",
+      "Title": "Director of IT",
+      "Category": "Director"
+    },
+    {
+      "JobId": 277,
+      "Company": "PwC",
+      "Salary": 70912,
+      "AppDate": "4/14/2016",
+      "City": "Dallas",
+      "Title": "Director IT Strategy - Power & Utilities",
+      "Category": "Director"
+    },
+    {
+      "JobId": 278,
+      "Company": "RJ Byrd Search Group",
+      "Salary": 115395,
+      "AppDate": "4/14/2016",
+      "City": "Fort Worth",
+      "Title": "Director of PMO",
+      "Category": "Director"
+    },
+    {
+      "JobId": 279,
+      "Company": "Data Masters",
+      "Salary": 111520,
+      "AppDate": "4/14/2016",
+      "City": "Fort Worth",
+      "Title": "Director of Application Software Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 280,
+      "Company": "L-3 Communications",
+      "Salary": 106151,
+      "AppDate": "4/14/2016",
+      "City": "Arlington",
+      "Title": "Software Engineering Resource Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 281,
+      "Company": "Securus Technologies",
+      "Salary": 92834,
+      "AppDate": "4/14/2016",
+      "City": "Dallas",
+      "Title": "IT Development Manager (Mobile/ UI)",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 282,
+      "Company": "Texas Instruments",
+      "Salary": 87590,
+      "AppDate": "4/14/2016",
+      "City": "Dallas",
+      "Title": "Web Application Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 283,
+      "Company": "ResMan Property",
+      "Salary": 108800,
+      "AppDate": "4/14/2016",
+      "City": "Dallas",
+      "Title": "Implementation Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 284,
+      "Company": "New Horizons",
+      "Salary": 90338,
+      "AppDate": "4/14/2016",
+      "City": "Irving",
+      "Title": "Instructor - Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 285,
+      "Company": "2M Research Services",
+      "Salary": 88408,
+      "AppDate": "4/15/2016",
+      "City": "Arlington",
+      "Title": "Chief Technology Officer",
+      "Category": "Other"
+    },
+    {
+      "JobId": 286,
+      "Company": "Training Associates",
+      "Salary": 71732,
+      "AppDate": "4/18/2016",
+      "City": "Arlington",
+      "Title": "Excel - Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 287,
+      "Company": "Training Associates",
+      "Salary": 71470,
+      "AppDate": "4/18/2016",
+      "City": "Irving",
+      "Title": "Office 2016 - Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 288,
+      "Company": "Training Associates",
+      "Salary": 104779,
+      "AppDate": "4/18/2016",
+      "City": "",
+      "Title": "Office 2016 - Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 289,
+      "Company": "Masis Professional Group",
+      "Salary": 102960,
+      "AppDate": "4/21/2016",
+      "City": "Frisco",
+      "Title": "Director of Application Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 290,
+      "Company": "Robert Half",
+      "Salary": 109989,
+      "AppDate": "4/21/2016",
+      "City": "Frisco",
+      "Title": "Director of Application Development (Java)",
+      "Category": "Director"
+    },
+    {
+      "JobId": 291,
+      "Company": "ServPartners",
+      "Salary": 98982,
+      "AppDate": "4/21/2016",
+      "City": "Irving",
+      "Title": "Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 292,
+      "Company": "Apptricity",
+      "Salary": 110100,
+      "AppDate": "4/21/2016",
+      "City": "Irving",
+      "Title": "Director of Mobile Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 293,
+      "Company": "Resolvity",
+      "Salary": 118261,
+      "AppDate": "4/21/2016",
+      "City": "Irving",
+      "Title": "Senior Director Application Development and Customer Operations",
+      "Category": "Director"
+    },
+    {
+      "JobId": 294,
+      "Company": "Park Hudson International",
+      "Salary": 91243,
+      "AppDate": "4/26/2016",
+      "City": "Fort Worth",
+      "Title": "Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 295,
+      "Company": "TD AmeriTrade",
+      "Salary": 87647,
+      "AppDate": "4/27/2016",
+      "City": "Roanoak",
+      "Title": "Application Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 296,
+      "Company": "Hunter Technical",
+      "Salary": 106326,
+      "AppDate": "4/28/2016",
+      "City": "Irving",
+      "Title": "Director of Mobile Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 297,
+      "Company": "First Command?",
+      "Salary": 80703,
+      "AppDate": "4/28/2016",
+      "City": "Fort Worth",
+      "Title": "Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 298,
+      "Company": "Agile Premier",
+      "Salary": 117760,
+      "AppDate": "4/28/2016",
+      "City": "Fort Worth",
+      "Title": "Software Architect II",
+      "Category": "Other"
+    },
+    {
+      "JobId": 299,
+      "Company": "Client Resources Inc.",
+      "Salary": 87889,
+      "AppDate": "5/2/2016",
+      "City": "Fort Worth",
+      "Title": "Application Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 300,
+      "Company": "Zolon tech",
+      "Salary": 116463,
+      "AppDate": "5/2/2016",
+      "City": "Fort Worth",
+      "Title": "ETL Developer",
+      "Category": "Developer"
+    },
+    {
+      "JobId": 301,
+      "Company": "Dev Mountain",
+      "Salary": 118631,
+      "AppDate": "5/3/2016",
+      "City": "Dallas",
+      "Title": "Mentor - Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 302,
+      "Company": "Academy Mortgage Corporation",
+      "Salary": 94088,
+      "AppDate": "5/3/2016",
+      "City": "Sandy",
+      "Title": "Director of Engineering",
+      "Category": "Director"
+    },
+    {
+      "JobId": 303,
+      "Company": "Ancestry",
+      "Salary": 83285,
+      "AppDate": "5/3/2016",
+      "City": "Provo",
+      "Title": "Senior Software Development Manager",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 304,
+      "Company": "HealthEquity",
+      "Salary": 110137,
+      "AppDate": "5/3/2016",
+      "City": "Draper",
+      "Title": "VP Product Development",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 305,
+      "Company": "Real Estate Technology Marketing",
+      "Salary": 107626,
+      "AppDate": "5/3/2016",
+      "City": "Springville",
+      "Title": "Vice President of Software Engineering",
+      "Category": "Vice Pres"
+    },
+    {
+      "JobId": 306,
+      "Company": "ITT Technical",
+      "Salary": 111014,
+      "AppDate": "5/4/2016",
+      "City": "SLC/DFW",
+      "Title": "Training / Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 307,
+      "Company": "New Horizons",
+      "Salary": 73016,
+      "AppDate": "5/4/2016",
+      "City": "SLC/DFW",
+      "Title": "Training / Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 308,
+      "Company": "Nicomp International Inc.",
+      "Salary": 76453,
+      "AppDate": "5/4/2016",
+      "City": "SLC/DFW",
+      "Title": "Training / Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 309,
+      "Company": "ONLC Training Centers",
+      "Salary": 106571,
+      "AppDate": "5/4/2016",
+      "City": "SLC/DFW",
+      "Title": "Training / Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 310,
+      "Company": "TechSherpas",
+      "Salary": 106203,
+      "AppDate": "5/4/2016",
+      "City": "SLC/DFW",
+      "Title": "Training / Adjunct",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 311,
+      "Company": "Rahul Sharma <rahulsharma@usgrpinc.com>",
+      "Salary": 113583,
+      "AppDate": "5/18/2016",
+      "City": "Dallas",
+      "Title": "SSIS- ETL developer",
+      "Category": "Other"
+    },
+    {
+      "JobId": 312,
+      "Company": "Southern NH University",
+      "Salary": 78281,
+      "AppDate": "5/18/2016",
+      "City": "Online",
+      "Title": "Adjunct - Data",
+      "Category": "Adjunct"
+    },
+    {
+      "JobId": 313,
+      "Company": "Health Management Systems Inc",
+      "Salary": 116013,
+      "AppDate": "5/20/2016",
+      "City": "Irving",
+      "Title": "Sr. Director Applications Development",
+      "Category": "Director"
+    },
+    {
+      "JobId": 314,
+      "Company": "Robert Half",
+      "Salary": 110012,
+      "AppDate": "6/4/2016",
+      "City": "Fort Worth",
+      "Title": "Manager of Applications Development",
+      "Category": "Manager"
+    },
+    {
+      "JobId": 315,
+      "Company": "Product Support Services Inc. (PSSI)",
+      "Salary": 82576,
+      "AppDate": "6/9/2016",
+      "City": "Coppell",
+      "Title": "IT Manager/Director",
+      "Category": "Manager"
+    }
+  ]
